@@ -24,4 +24,4 @@ As part of my ongoing journey in data analytics, I’ve created a dynamic Power 
 💥 Strategic Discounts: Use sales-discount analysis to time your promotions effectively, leveraging months with high sales correlation.
 🤝 Brand Partnerships: Brands like Puma and Adidas show strong performance — a great opportunity to foster collaborative campaigns.
 📊 By harnessing Power BI’s interactive capabilities, this dashboard transforms raw data into meaningful business insights, helping businesses optimize strategy and drive growth!
-hashtag#PowerBI hashtag#DataAnalysis hashtag#BusinessIntelligence hashtag#SalesAnalytics hashtag#Myntra hashtag#DataDriven hashtag#SudheerVyas hashtag#Visualization hashtag#BigData hashtag#BI hashtag#Ecommerce hashtag#Insights hashtag#DataStorytelling
+
